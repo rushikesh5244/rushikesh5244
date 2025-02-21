@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prince415121225
+- 👋 Hi, I’m RUSHIKESH URE
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently  working on projects..
 - 💞️ I’m looking to collaborate on github
